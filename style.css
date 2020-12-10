@@ -1,0 +1,42 @@
+body{
+	background-color: pink;
+}
+@media screen and(min-width: 500px){
+body{
+	background-color: blue;
+}
+}
+.A{
+	border: 1px solid black;
+	background-color: lightblue; 
+	color:	white;
+	font-size: 15px;
+	margin-top: 40px
+	margin-bottom:40px;
+    margin‐left:auto;
+    margin‐right:auto;
+}
+#B{
+	border:1px maroon;
+	color: purple;
+	font-size: 15px;
+	margin‐left:auto;
+    margin‐right:auto;
+}
+#C{
+	border:1px pink;
+	color: black;
+	font-size: 100%;
+	margin‐left:auto;
+    margin‐right:auto;
+}
+.D{
+	float:left;
+	margin-top:40px;
+	margin-bottom:40px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
